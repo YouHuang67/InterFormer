@@ -213,3 +213,8 @@ Here's an example script to run the demo:
 ```shell
 python demo/main.py work_dirs/interformer_tiny_coco_lvis_320k/iter_320000.pth --device cpu
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
