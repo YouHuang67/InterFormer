@@ -170,7 +170,7 @@ The trained weights are stored in `work_dirs/interformer_light_coco_lvis_320k` o
 
 ## Evaluation
 
-The trained weights are available at [InterFormer](https://drive.google.com/drive/folders/1kEll7pqulpE00JcCvSut0e9C4peKDWRe?usp=sharing)
+The trained weights are available at [InterFormer](https://drive.google.com/drive/folders/1517mfRoEHtbfnN83JuNWuQT6fSiZ8my3?usp=sharing)
 
 To start the evaluation on the GrabCut, Berkeley, SBD, or DAVIS dataset, use the following script:
 ```shell
