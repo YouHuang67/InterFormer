@@ -1,5 +1,5 @@
 # InterFormer
-This repo is the official implementation of "InterFormer: Real-time Interactive Image Segmentation"
+This repo is the official implementation of ICCV2023 paper "InterFormer: Real-time Interactive Image Segmentation"
 
 
 # Introduction
